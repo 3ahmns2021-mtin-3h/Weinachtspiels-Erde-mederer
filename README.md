@@ -1,13 +1,13 @@
-# Template2D-Unity202015f1
+Weinachtsspiel-Erde-smederer
 
 ### Project description: 
-Introduction/Project summary 
+recap projekt: C# basics, unity workflow 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity 1.15f1, visual studio 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+Webgl (960 600)
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by smederer
