@@ -21,9 +21,10 @@ public class PlayerControler : MonoBehaviour
         moveHorizontal= Input.GetAxis("Horizontal") * speed;
         moveHorizontal = moveHorizontal * Time.deltaTime;
 
-        Debug.Log("x Axis" + player.GetComponent<Transform>().position.x);
+        //Debug.Log("x Axis" + player.GetComponent<Transform>().position.x);
 
         player.GetComponent<Transform>().position = player.GetComponent<Transform>().position + new Vector3(moveHorizontal, 0, 0);
         
     }
 }
+    
