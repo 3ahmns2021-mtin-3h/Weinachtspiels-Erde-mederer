@@ -33,7 +33,12 @@ public class Player : MonoBehaviour
             scoreNow.text = countCollisions.ToString();
             Destroy(collision.gameObject);
         }
-        Debug.Log("count collisions" + countCollisions);
+        if (countCollisions == -1)
+        {
+            countCollisions = 0;
+        }
+        
+        //Debug.Log("count collisions" + countCollisions);
     }
 
     // Update is called once per frame

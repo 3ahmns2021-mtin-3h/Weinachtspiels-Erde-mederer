@@ -1,6 +1,7 @@
 ﻿
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class Timer : MonoBehaviour
 {
@@ -30,5 +31,10 @@ public class Timer : MonoBehaviour
         {
             Debug.Log("stop");
         }
+        if (timeInSec <= 0)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+
     }
 }
