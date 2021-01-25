@@ -7,8 +7,8 @@ public class SpawnSchnee : MonoBehaviour
     public GameObject schneePrefab;
     public GameObject parentSpawnGo;
 
-    private float spawnRate = 3f;
-    private float nextSpawn = 4f;
+    private float spawnRate = 1f;
+    private float nextSpawn = 2f;
 
     // Start is called before the first frame update
     void Start()
