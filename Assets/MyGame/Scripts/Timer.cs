@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class Timer : MonoBehaviour
 {
     public TextMeshProUGUI timer;
+
     private float timeInSec;
 
     // Start is called before the first frame update
@@ -25,7 +26,6 @@ public class Timer : MonoBehaviour
         {
             //timeInSec = timer;
             timer.text = string.Format("{0:00}:{1:00}", minutes, seconds);
-
         }
         else
         {
