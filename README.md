@@ -10,19 +10,20 @@ Unity 1.15f1, visual studio 2019
 Webgl (960 600)
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+ 
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+open projekt in Unity 1.15f1, press play button
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Background image, Earth image, snow image, water image
 
 ### Project state: 
-incl. progress in percent
+100%, finished. (MVP achieved)
 
 ### Limitations: 
 
 ### Lessons Learned: 
+basics about c# scripting (movement, timer, random)
 
 Copyright by smederer
