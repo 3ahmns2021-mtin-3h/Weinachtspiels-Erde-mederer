@@ -11,7 +11,7 @@ Webgl (960 600)
 
 ### Visuals: 
 <div>
-<img src="./Assets/MyGame/screenshot.PNG/" width="250">
+<img src="./screenshot/screenshot01.PNG" width="250">
 </div>
 
  
