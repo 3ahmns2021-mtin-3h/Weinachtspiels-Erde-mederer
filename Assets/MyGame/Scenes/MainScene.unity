@@ -352,7 +352,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 28.929127, y: 20.383997}
+  m_Size: {x: 44.36882, y: 20.383997}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -366,7 +366,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 322251017}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.169, y: 0.018, z: 0}
+  m_LocalPosition: {x: 0.137, y: 0.06, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children: []
   m_Father: {fileID: 0}
@@ -714,7 +714,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 541, y: 0}
+  m_AnchoredPosition: {x: 539, y: 0.000030518}
   m_SizeDelta: {x: 118.336426, y: 721.604}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!61 &861468452
@@ -806,8 +806,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919063278}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -6138.685}
-  m_LocalScale: {x: 39.291412, y: 39.291412, z: 39.291412}
+  m_LocalPosition: {x: -3, y: -3, z: 0}
+  m_LocalScale: {x: 36.408997, y: 35.256016, z: 39.291412}
   m_Children: []
   m_Father: {fileID: 1065938324}
   m_RootOrder: 1
@@ -1316,9 +1316,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Erde
-
-'
+  m_Text: 
 --- !u!222 &1386477344
 CanvasRenderer:
   m_ObjectHideFlags: 0
