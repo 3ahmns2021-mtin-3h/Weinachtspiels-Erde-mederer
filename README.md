@@ -12,7 +12,8 @@ Webgl (960 600)
 ### Visuals: 
 <div>
 <img src="./Assets/MyGame/screenshot.PNG/" width="250">
-</div>\Assets\MyGame
+</div>
+
  
 
 ### Necessary setup/execution steps: 
