@@ -10,6 +10,9 @@ Unity 1.15f1, visual studio 2019
 Webgl (960 600)
 
 ### Visuals: 
+<div>
+<img src=".Assets/MyGame/screenshots/Unbekannt.png" width="250">
+</div>\Assets\MyGame
  
 
 ### Necessary setup/execution steps: 
