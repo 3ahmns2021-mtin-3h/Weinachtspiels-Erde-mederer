@@ -24,6 +24,15 @@ Background image, Earth image, snow image, water image
 
 ### Project state: 
 100%, finished. (MVP achieved)
+MVP:
+•	Aufsetzen des 2D Projekts screen-independent (960x600) mit git/GitHub
+•	Player movement Horizontal 
+•	Timer 1 Minute (mechanic & display)
+•	Collectibles & Enemies spawnen & movement
+•	Score mechanic: Collectibles, Player, Enemies Collisions & Trigger events 
+•	Score display
+•	PLUS: das gecodete in das Spiel visuell einzubauen (score ist während des Spielens sichtbar usw.)
+
 
 ### Limitations: 
 
